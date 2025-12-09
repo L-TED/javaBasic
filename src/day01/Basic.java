@@ -36,8 +36,8 @@ public class Basic {
         System.out.println(c5);
         System.out.println(c6);
         // 4
-        student Kim = new student("김철수", 22);
-        student Lee = new student("이영희", 23);
+        Student Kim = new Student("김철수", 22);
+        Student Lee = new Student("이영희", 23);
         Kim.studying();
         Lee.studying();
 
